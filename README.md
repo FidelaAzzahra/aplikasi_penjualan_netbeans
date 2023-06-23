@@ -22,5 +22,10 @@ Berikut merupakan alur dari aplikasi penjualan yang saya buat.
 <img width="1280" alt="Screen Shot 2023-06-23 at 20 23 19" src="https://github.com/FidelaAzzahra/aplikasi_penjualan_netbeans/assets/114632917/6fdc62f1-515e-42c1-8d6b-6a76d2fb7911">
 
 - Alur 5 : Menu Laporan berisi 1 sub menu : Laporan Transaksi Penjualan.
+<img width="1280" alt="Screen Shot 2023-06-23 at 20 24 39" src="https://github.com/FidelaAzzahra/aplikasi_penjualan_netbeans/assets/114632917/068e1cb7-384f-4b52-bd94-dec7472254e3">
+
 - Alur 6 : Menu Utility untuk export database berupa file dengan extension sql.
+<img width="1280" alt="Screen Shot 2023-06-23 at 20 25 04"
+src="https://github.com/FidelaAzzahra/aplikasi_penjualan_netbeans/assets/114632917/92b80685-6513-4ad7-9d66-2bbc3967695c">
+
 - Alur 7 : Menu Keluar untuk menutup aplikasi.

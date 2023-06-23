@@ -1,7 +1,8 @@
 <h3>Aplikasi Penjualan Netbeans</h3>
+
 <b>Mata kuliah pemrograman berorientasi objek</b>
 
-Requirement :  
+Requirement : openjdk 15.0.2, Apache Netbeans versi 14, mysql-connector-j-8.0.33.jar, dan jcalendar-1.4.jar 
 
 Berikut merupakan alur dari aplikasi penjualan yang saya buat.
 - Alur 1 : Pertama kali yang dijalankan adalah form login, pengguna diminta untuk memasukkan user ID dan password.
